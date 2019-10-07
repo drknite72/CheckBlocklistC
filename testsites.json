@@ -1,0 +1,70 @@
+[
+  {
+    "Category Name": "Adult Content_Other",
+    "Test Website": "https://authoritytattoo.com/"
+  },
+  {
+    "Category Name": "Adult Content_Pornography",
+    "Test Website": "http://playboy.com"
+  },
+  {
+    "Category Name": "Aggressive",
+    "Test Website": "https://www.thegunwriter.com/"
+  },
+  {
+    "Category Name": "Child Abuse",
+    "Test Website": "http://apon.site/"
+  },
+  {
+    "Category Name": "Criminal Activities",
+    "Test Website": "http://www.culturehook.com/"
+  },
+  {
+    "Category Name": "Dating",
+    "Test Website": "https://www.match.com/"
+  },
+  {
+    "Category Name": "Drugs",
+    "Test Website": "https://drugs-center.biz/"
+  },
+  {
+    "Category Name": "Gambling",
+    "Test Website": "https://www.gambling.com/"
+  },
+  {
+    "Category Name": "Marijuana",
+    "Test Website": "http://allbud.com/"
+  },
+  {
+    "Category Name": "Peer-to-Peer",
+    "Test Website": "https://www.utorrent.com/"
+  },
+  {
+    "Category Name": "Piracy & Copyright Theft",
+    "Test Website": "https://c123movies.com/"
+  },
+  {
+    "Category Name": "Security Risk",
+    "Test Website": "https://www11.123movie.cc/"
+  },
+  {
+    "Category Name": "Security Risk_Phishing_Fraud",
+    "Test Website": "http://track.cpitraffic.com/"
+  },
+  {
+    "Category Name": "Security Risk_Spam",
+    "Test Website": "http://enlighteningwords.com/"
+  },
+  {
+    "Category Name": "Uncategorized",
+    "Test Website": "http://www6.leafy.com/"
+  },
+  {
+    "Category Name": "Weapons",
+    "Test Website": "http://weapons-universe.com/"
+  },
+  {
+    "Category Name": "Web Proxies_Anonymizers",
+    "Test Website": "https://www.kproxy.com/"
+  }
+]
